@@ -1,0 +1,117 @@
+.body{
+	padding: 0px;
+	margin: 0px;
+}
+.base{
+	height: 100%;
+	margin: auto;
+	background-color: #EBEAE5;
+}
+.d1{
+	/*height: 700px;*/
+	width: 1260px;
+	float: left;
+	/*background-color: salmon;*/
+	margin-top: 50px;
+	margin-left: 70px;
+}
+.d2{
+	height: 1120px;
+	width: 800px;
+	background-color:white;
+	float: left;
+	margin-top: 20px;
+	margin-left: 90px;
+}
+.top1{
+	height: 60px;
+	width: 800px;
+	float: left;
+	margin-top: 20px;
+	font-size: 29px;
+	margin-left: 15px;
+}
+.top1 button{
+	height: 50px;
+	width: 150px;
+	font-size: 15px;
+	float: left;
+	margin-left: 620px;
+	margin-top: -30px;
+	background-color: black;
+	color: white;
+}
+.input1{
+	height: 60px;
+	width: 800px;
+	float: left;
+	margin-top: 35px;
+	font-size: 20px;
+	margin-left: 15px;
+}
+.input2{
+	height: 130px;
+	width: 710px;
+	float: left;
+	margin-top: 40px;
+	font-size: 20px;
+	margin-left: 15px;
+	margin-bottom: 20px;
+}
+.input2 textarea{
+	height: 130px;
+	width: 710px;
+}
+.input1 input{
+	height: 45px;
+	width: 710px;
+}
+.input1 select{
+	width: 150px;
+	height: 40px;
+}
+select{
+	border-radius: 12px;
+	background-color: #F0F0EE;
+	padding-left: 20px;
+	border: none;
+}
+.d3 select{
+	width: 350px;
+	height: 40px;
+	border-radius: 12px;
+	background-color: #F0F0EE;
+	padding-left: 20px;
+	border: none;
+}
+.right1{
+	height: 150px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin-left:60px;
+	margin-top: 20px;
+	line-height: 40px;
+}
+.right1 h3{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 20px;
+}
+.right1 li{
+	
+}
+.right2{
+	height: 250px;
+	width: 300px;
+	background-color: white;
+	float: left;
+	margin-left:60px;
+	margin-top: 30px;
+	line-height: 40px;
+}
+.right2 h3{
+	font-size: 21px;
+	font-weight: bold;
+	margin-left: 20px;
+}

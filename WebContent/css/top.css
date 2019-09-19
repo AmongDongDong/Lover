@@ -1,0 +1,135 @@
+body{
+				padding: 0px;
+				margin: 0px;
+			}
+.deferent{
+	width: 45px;
+	height: 57px;
+	/*background-color: #313131;*/
+	background-color: white;
+	float: left;
+	margin-left: 85px;
+	border-bottom: 5px solid #000000;
+	text-align: center;
+	line-height: 60px;
+}
+.deferent a{
+	font-weight: 300;
+	color: black;
+	text-decoration: none;
+	font-size: 14px;
+}
+			.top{
+				width: 100%;
+				height: 60px;
+				background-color: #525252;
+				float: left;
+				position: fixed;
+				z-index: 100;
+			}
+			.navi{
+				width: 100%;
+				height: 59px;
+				background-color: white;
+				margin-top: 40px;
+				float: left;
+				position: fixed;
+				border-top: 1px solid #999999;
+				border-bottom: 1px solid #999999;
+				z-index: 1000;
+			}
+			.navi-1{
+				width: 1000px;
+				height: 55px;
+				/*background-color: #313131;*/
+				background-color: white;
+				margin-left: 400px;
+				float: left;
+			}
+			.navi-1-1{
+				width: 36px;
+				height: 55px;
+				/*background-color: #313131;*/
+				background-color: white;
+				float: left;
+				color: black;
+				text-align: center;
+				line-height: 60px;
+				font-size: 20px;
+			}
+			.navi-1-2{
+				width: 36px;
+				height: 55px;
+				/*background-color: #313131;*/
+				background-color: white;
+				float: left;
+				margin-left: 85px;
+				text-align: center;
+				line-height: 60px;
+			}
+			.navi-1-2 a{
+				font-weight: 300;
+				color: black;
+				text-decoration: none;
+				font-size: 14px;
+			}
+			.navi-1-3{
+				width: 65px;
+				height: 55px;
+				/*background-color: #313131;*/
+				background-color: white;
+				float: left;
+				margin-left: 85px;
+				text-align: center;
+				line-height: 60px;
+			}
+			.navi-1-3 a{
+				font-weight: 300;
+				color: black;
+				text-decoration: none;
+				font-size: 12px;
+			}
+			.navi-1-4{
+				width: 36px;
+				height: 55px;
+				/*background-color: #313131;*/
+				background-color: white;
+				float: left;
+				margin-left: 60px;
+				text-align: center;
+				line-height: 60px;
+				color: black;
+				font-size: 16px;
+				font-weight: 100;
+			}
+			
+			.navi-1-4:hover{
+				 border-bottom: 5px solid #000;
+			}
+			.navi-2{
+				width: 300px;
+				height: 55px;
+				background-color: white;
+				float: left;
+				margin-left: 180px;
+				color: #000000;
+				font-size: 15px;
+			}
+			.navi-2 img{
+				width: 40px;
+				height: 40px;
+				border-radius: 50%;
+				margin-top: 7px;
+				margin-left: 10px;
+				float: left;
+			}
+			.navi-2 strong{
+				float: left;
+				font-size: 20px;
+				line-height: 55px;
+				margin-left: 10px;
+			}
+			.navi-2 a{
+				text-decoration: none;
+				color: #000000;
+			}

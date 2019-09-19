@@ -1,0 +1,92 @@
+.bott{
+	width: 100%;
+	height: 1000px;
+}
+.d1{
+	width: 920px;
+	height: 1000px;
+	margin-left: 60px;
+	margin-top: 25px;
+	/*background-color: greenyellow;*/
+}
+.d1-1{
+	width: 918px;
+	height: 57px;
+	font-weight: bold;
+	font-size: 30px;
+	margin-left: 10px;
+	padding: 10px;
+}
+.d1-2{
+	height: 880px;
+	width: 920px;
+/*	background-color: palevioletred;*/
+}
+.left{
+	width: 200px;
+	height: 780px;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+	/*background-color: plum;*/
+}
+.right{
+	width: 500px;
+	height: 810px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 50px;
+	/*background-color: gold;*/
+}
+.left-1{
+	width: 190px;
+	height: 70px;
+	font-size: 22px;
+}
+.sheng{
+	width: 125px;
+	height: 45px;
+	font-size: 18px;
+}
+.shi{
+	width: 125px;
+	height: 45px;
+	font-size: 18px;
+}
+.xian{
+	width: 125px;
+	height: 45px;
+	font-size: 18px;
+}
+select{
+	width: 385px;
+	height: 48px;
+	margin-bottom: 21px;
+	padding-left: 20px;
+	font-size: 18px;
+	border-radius: 12px;
+	border: none;
+	background-color: #F0F0EE;
+	display: inline-block;
+}
+.d1-3{
+	height: 100px;
+	width: 400px;
+	float: right;
+	margin-right: 115px;
+	/*background-color: peru;*/
+}
+.btn{
+	background-color: #555555;
+	color: white;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+}
+.btn:hover{
+	background-color: #C6C6C6;
+}
